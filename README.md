@@ -1,4 +1,4 @@
-# [**Blue Book for Bulldozers**](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
+# [**BlueBook for Bulldozers**](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
 
 **Fastai Library or API**
 - [Fast.ai](https://www.fast.ai/about/) is the first deep learning library to provide a single consistent interface to all the most commonly used deep learning applications for vision, text, tabular data, time series, and collaborative filtering.
